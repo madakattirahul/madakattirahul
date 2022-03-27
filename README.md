@@ -8,3 +8,7 @@
 madakattirahul/madakattirahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Connect with me on Stackoverflow: https://stackoverflow.com/users/3827987/rahul-madakatti
+twitter: https://twitter.com/MadakattiRahul
+Github: https://github.com/madakattirahul
